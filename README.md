@@ -1,6 +1,6 @@
-# The Seed — Le Testament du Vivant
+# The Seed: Le Testament du Vivant
 
-**The Seed — Le Testament du Vivant** is a bilingual French-English public archive about the **biosphere**, **Earth-system interdependence**, **living systems**, **humanity**, **technology**, **artificial intelligence**, and **future intelligences**.
+**The Seed: Le Testament du Vivant** is a bilingual French-English public archive about the **biosphere**, **Earth-system interdependence**, **living systems**, **humanity**, **technology**, **artificial intelligence**, and **future intelligences**.
 
 The project is published by **Association Terre « sacrée »**, a French non-profit association active since 1999.
 
@@ -58,7 +58,7 @@ Before publication, the snapshot was checked for private keys, credentials, API 
 
 Please see [`CITATION.cff`](./CITATION.cff) for machine-readable citation metadata. A suggested citation is:
 
-> Association Terre sacrée, Cédric Mercier, and Michel G. Walter. *The Seed — Le Testament du Vivant*. Version 2026.09.20, 20 September 2026. <https://github.com/Cedre083/the-seed>.
+> Association Terre sacrée, Cédric Mercier, and Michel G. Walter. *The Seed: Le Testament du Vivant*. Version 2026.09.20, 20 September 2026. <https://github.com/Cedre083/the-seed>.
 
 ## Contact
 
@@ -66,4 +66,4 @@ For rights, corrections, or reuse questions, consult <https://the-seed.net/menti
 
 > The README describes the repository and does not replace the legal notices contained in the website archive.
 
-The Seed — Le Testament du Vivant · <https://the-seed.net/>
+The Seed: Le Testament du Vivant · <https://the-seed.net/>
