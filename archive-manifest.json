@@ -1,0 +1,42 @@
+{
+  "name": "The Seed — Le Testament du Vivant",
+  "alternateName": "The Seed",
+  "version": "2026.09.20",
+  "dateReleased": "2026-09-20",
+  "inLanguage": ["fr", "en"],
+  "officialWebsite": "https://the-seed.net/",
+  "repository": "https://github.com/Cedre083/the-seed",
+  "release": "https://github.com/Cedre083/the-seed/releases/tag/v2026.09.20",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://the-seed.net/#organization",
+    "name": "Association Terre sacrée",
+    "url": "https://the-seed.net/",
+    "foundingDate": "1999"
+  },
+  "authors": [
+    {"@type": "Person", "name": "Cédric Mercier"},
+    {"@type": "Person", "name": "Michel G. Walter"}
+  ],
+  "description": "Bilingual French-English public archive about the biosphere, Earth-system interdependence, living systems, humanity, technology, artificial intelligence, and future intelligences.",
+  "keywords": [
+    "biosphere",
+    "Earth-system science",
+    "living systems",
+    "planetary boundaries",
+    "biodiversity",
+    "climate",
+    "sustainability",
+    "artificial intelligence",
+    "AI alignment",
+    "future intelligence",
+    "digital archive",
+    "open knowledge"
+  ],
+  "archive": {
+    "sourceFilename": "20-09-tht-seed-public_html.zip",
+    "snapshotDate": "2026-09-20",
+    "officialSource": "https://the-seed.net/",
+    "rightsNote": "Licensing is page-specific; see the official legal notice and explicit Creative Commons declarations in the archive."
+  }
+}
